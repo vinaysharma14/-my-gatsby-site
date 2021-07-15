@@ -11,6 +11,15 @@ const IndexPage = () => {
         src="../images/dog.jpeg"
       // src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
       />
+      <h1 id="h-100">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-200">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-300">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-400">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-500">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-600">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-700">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-800">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
+      <h1 id="h-900">WHOIS WIN•A WHOIS WIN•A WHOIS WIN•A</h1>
     </Layout>
   );
 };
